@@ -7,7 +7,8 @@
   </tr>
 </table>
 </center>
-     $\color{goldenrod}{\textsf{bps is accepting member reservations! to reserve a spot, please fill out this form:  }}$ https://forms.gle/PPt3yB4fnb5KiZoF6
+bps is accepting member reservations! to reserve a spot, please fill out this form: https://forms.gle/PPt3yB4fnb5KiZoF6
+
 <details>
 <summary>     $\color{goldenrod}{\textsf{"what is this about?"}}$ </summary>
   </br>
