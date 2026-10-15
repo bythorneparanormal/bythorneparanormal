@@ -1,1 +1,2 @@
-$\textcolor{#ff0000}\textsf{"test"}$
+$$\textcolor{red}{Welcome} \space$$
+
