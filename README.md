@@ -38,7 +38,7 @@
 <table>
   <tr>
     <th>
-     The two founders are @jesusluvsjunkies and @alternatz. They are both adults with experience in the Ponytown regiment community since 2019. Jesusluvsjunkies, in particular, has experience running regiments, scouts, and species, as well as Discord servers and VRChat groups, and has been a Ponytown player since 2019. The group was created as a love letter to The Mandela Catalogue.
+     The two founders are @jesusluvsjunkies (fou. jonah) and @alternatz (cfou. adam). They are both adults with experience in the Ponytown regiment community since 2019. Jesusluvsjunkies, in particular, has experience running regiments, scouts, and species, as well as Discord servers and VRChat groups, and has been a Ponytown player since 2019. The group was created as a love letter to The Mandela Catalogue.
     </th>
   </tr>
 </table>
