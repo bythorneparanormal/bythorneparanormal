@@ -1,7 +1,1 @@
-<table>
-  <tr>
-    ${{\color{Goldenrod}\Huge{\textsf{  youve\ reached\ the\ bythorne\ paranormal\ society\ \...}}}}\$
-
-  </tr>
-</table>
-
+$\color{Orange}\Huge{\textbf{you've reached the bythorne paranormal society how may i help you?}}$
