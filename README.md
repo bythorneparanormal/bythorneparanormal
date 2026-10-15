@@ -7,7 +7,7 @@
   </tr>
 </table>
 </center>
-
+     $\color{goldenrod}{\textsf{bps is accepting member reservations! to reserve a spot, please fill out this form:  }}$ https://forms.gle/PPt3yB4fnb5KiZoF6
 <details>
 <summary>     $\color{goldenrod}{\textsf{"what is this about?"}}$ </summary>
   </br>
@@ -62,7 +62,7 @@
 <table>
   <tr>
     <th>
-     We do not have a waitlist since we like to do stuff a bit old-fashioned. Instead, we're waiting for the server to be done before inviting others. If you're interested, we high recommend reserving a spot via our atabook (where you can also ask questions!)
+     We do not have a waitlist since we like to do stuff a bit old-fashioned. Instead, we're waiting for the server to be done before inviting others. If you're interested, we high recommend reserving a spot.
     </th>
   </tr>
 </table>
