@@ -1,6 +1,6 @@
 <table>
   <tr>
-    $$\color{yellow}{you've} \space {reached} \space {the} \space {bythorne} \space {paranormal} \space {society} $$
+    ${{\color{Goldenrod}\Huge{\textsf{  youve\ reached\ the\ bythorne\ paranormal\ society\ \...}}}}\$
 
   </tr>
 </table>
