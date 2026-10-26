@@ -27,7 +27,7 @@
 <table>
   <tr>
     <th>
-  bps is also looking for advice on an upcoming ghost investigation system. You may give feedback here: https://forms.gle/yEfpvQU81fYVo6aH9
+  bps looking for you may give feedback here: https://forms.gle/yEfpvQU81fYVo6aH9
     </th>
   </tr>
 </table>
